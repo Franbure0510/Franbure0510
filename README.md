@@ -9,7 +9,7 @@ I build things for the web. Learning Python, JavaScript, and databases one proje
 - 🔭 Currently on my 4th semester at **ISIL**
 - 🌱 Learning **Python** and **SQL Server**
 - 📫 Reach me: **franbure0510@gmail.com**
-- 🌐 [Portfolio](https://portafolio.onrender.com)
+- 🌐 [Portfolio](https://portafolio-ptzh.onrender.com)
 
 ---
 
